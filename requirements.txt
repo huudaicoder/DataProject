@@ -1,0 +1,8 @@
+pyvi
+tqdm
+numpy
+pandas
+matplotlib
+gensim
+pickle5
+scikit-learn
